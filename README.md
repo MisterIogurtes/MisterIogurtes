@@ -1,6 +1,6 @@
 ### Hi 👋 My name is João Vicente, nice to meet you ;)
 
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 😄 Pronouns: he/him
 - 🏳️ Nationalaty: Portugal
 - ⚡ Fun fact: I like yogurt
